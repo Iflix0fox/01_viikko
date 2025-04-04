@@ -1,5 +1,6 @@
 console.log("tämä on javascript-testi.");
-alert("Moi")
+
+
 
 function funktio() {
     let p = 5*6;
