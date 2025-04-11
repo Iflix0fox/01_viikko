@@ -41,7 +41,7 @@ Bonus: Muokkaa funktiota käyttämään implisiittistä palautusta.
 
 
 function isEven(num) {
-    if (num % 2 == 0) {
+    if (num % 2 === 0) {
       return true;
     } else {
       return false;

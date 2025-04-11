@@ -1,0 +1,22 @@
+body {
+  background-image: url(de);
+}
+
+header{
+  text-align: center;
+}
+
+.logo {
+ background-color: #69013b;
+}
+
+.hero {
+  /* background-image: url(develepor.png); */
+  font-family:  font-family: "Poppins", sans-serif;
+  
+}
+
+.text1{
+  font-family:"Poppins", sans-serif; 
+  font-size: 20px;
+}
